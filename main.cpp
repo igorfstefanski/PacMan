@@ -1,5 +1,5 @@
 /*
- * TITLE:   TETRIS IN C++
+ * TITLE:   PAC-MAN IN C++
  * AUTHOR:  Igor Stefański
  * DATE:    January 2021
  * DESCRIPTION:
