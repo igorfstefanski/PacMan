@@ -8,3 +8,7 @@ Popular Pac-Man game in C++, using Qt5 library.
 Task was introduced on Object-Oriented Programming in C++ course\
 2020/2021 Academic Year\
 Technical University of Lodz, Computer Science
+
+# Screenshots
+![alt text](https://github.com/igorfstefanski/PacMan/blob/main/screenshots/screenshot1.png?raw=true)
+![alt text](https://github.com/igorfstefanski/PacMan/blob/main/screenshots/screenshot2.png?raw=true)
